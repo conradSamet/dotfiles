@@ -1,7 +1,3 @@
-[submodule "nvim"]
-	path = nvim
-	branch = main
-	url = https://github.com/conradSamet/nvim
 [submodule "tmux"]
 	path = tmux
 	url = https://github.com/conradSamet/tmux
