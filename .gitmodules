@@ -1,0 +1,5 @@
+[submodule "nvim"]
+	path = nvim
+	url = git@github.com:conradSamet/nvim.git
+	branch = main
+	update = merge
