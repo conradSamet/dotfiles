@@ -8,3 +8,8 @@
 	url = git@github.com:conradSamet/zsh.git
 	branch = main
 	update = merge
+[submodule "tmux"]
+	path = tmux
+	url = git@github.com:conradSamet/tmux.git
+	branch = main
+	update = merge
